@@ -1,6 +1,6 @@
 ### <h1 align="center"> Hello, I'm Sofia Mell0 👋
 
-- 📚 Estudando: Análise e Desenvolvimento de Sistemas - Fatec Zona Sul
+- 📚 Estudando: Análise e Desenvolvimento de Sistemas - Fatec São Paulo
 - 🔭 Curso: Programação Web java - Instituto Proa 
 
 <div align="center">
